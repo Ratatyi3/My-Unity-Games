@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: eb8d354dd69f9c74389e0db9689f9298
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - background: {fileID: 3728196591652667552, guid: ac1e393b117ab724787b227358cf3b13, type: 3}
+  - obstc1: {fileID: 4097086527992050505, guid: f38e8b32d72d9b8469521410b2e27680, type: 3}
+  - obstc2: {fileID: 2065461895571114236, guid: e80fe799e4f13b2448dfd5fb9bbe9307, type: 3}
+  - spawner: {fileID: 2520247210791411266, guid: 8a0ca93325982cb47807116cf96ad29b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
