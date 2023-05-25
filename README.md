@@ -7,4 +7,5 @@
   Computer Science student
 </h3>
 </br>
-<p>The repository consists of several games developed by me, screenshots and a description are attached to each game.</p>
+<p>The repository consists of several games developed by me.</p>
+<p>Screenshots and a description are attached to Dodge if you can, Space Shooter and Dino Jumper games</p>
