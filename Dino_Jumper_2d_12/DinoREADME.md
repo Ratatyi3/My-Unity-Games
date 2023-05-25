@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="../Games Description Stuff/dino/logo.png" alt="Logo" width="80" height="80">
+  <img src="[../Games Description Stuff/dino/logo.png](https://github.com/Ratatyi3/My-Unity-Games/blob/master/Games%20Description%20Stuff/dino/logo.jpg)" alt="Logo" width="80" height="80">
 
   <h3 align="center">Dino Jumper</h3>
 
