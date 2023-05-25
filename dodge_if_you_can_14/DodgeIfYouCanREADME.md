@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="../Games Description Stuff/dodge/logo.png" alt="Logo" width="80" height="80">
+  <img src="https://github.com/Ratatyi3/My-Unity-Games/blob/master/Games%20Description%20Stuff/dodge/logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Dodge if you can</h3>
 
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="../Games Description Stuff/dodge/1.png" alt="Logo" width="720" height="1080">
+<img src="https://github.com/Ratatyi3/My-Unity-Games/blob/master/Games%20Description%20Stuff/dodge/1.png" alt="Logo">
 
 There is a game that contain: ship, enemy ships, boss, interface, difficulty buttons, timer on 60 seconds at the end of the time that you win. 
 
