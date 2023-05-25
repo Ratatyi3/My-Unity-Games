@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="../Games Description Stuff/space/logo.png" alt="Logo" width="80" height="80">
+  <img src="../Games Description Stuff/space/logo.png" alt="Logo" width="160" height="160">
 
   <h3 align="center">Alien Shooter</h3>
 
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="../Games Description Stuff/space/1.png" alt="Logo" width="720" height="1080">
+<img src="../Games Description Stuff/space/1.png" alt="Logo">
 
 Space shooter where you can train your attention by destroying enemy invaders.  
 
