@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <img src="../Games Description Stuff/dino/1.png" alt="Logo" width="720" height="1080">
+ <img src="https://github.com/Ratatyi3/My-Unity-Games/blob/master/Games%20Description%20Stuff/dino/1.jpg" alt="Logo" width="720" height="1080">
 
 This is dino jumper game with different conditions.
 
